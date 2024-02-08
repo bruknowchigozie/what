@@ -1,0 +1,140 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+.hen{
+    width: 320px;
+    height: 40px;
+    top: 69px;
+    left: 1px;
+    border-radius: 8px;
+    border: 1px;
+    background: linear-gradient(0deg, #E0DEDE, #E0DEDE),
+    linear-gradient(0deg, #FCFCFC, #FCFCFC);
+    padding-left:20px ;
+}
+input:hover{
+    border-color: rgb(250, 21, 21);
+}
+.toggle-password{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    cursor: pointer;
+    transform: translate(-50%);
+    width: 20px;
+    height: 20px;
+}
+.password-container{
+    position: relative;
+}
+#toggler[type="password"]{
+
+}
+.dad{
+    padding-top: 50px;
+    width: 589px;
+    height: 883px;
+    top: 70px;
+    left: 23px;
+    padding: 94px, 122px, 95px, 121px;
+    border-radius: 8px;
+    margin-left: 40px;
+}
+.Ji{
+    width: 24px;
+    height: 24px;
+    top: 12px;
+    left: 248px;
+}
+.tt{
+    width: 345px;
+    height: 48px;
+    top: 596px;
+    left: 1px;
+    padding: 12px, 73px, 12px, 73px;
+    border-radius: 8px;
+    border: 1px;
+    color: green;
+    border: 2px solid black;
+
+   
+}
+.btn{
+    height: 48px;
+    width: 345px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid green;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.non{
+/* border: 2px solid black; */
+width: 70%;
+height: 30px;
+margin-left: 80px;
+padding-top: 15px;
+color: green;
+}
+.so{
+    /* border: 2px solid red; */
+   width: 30%;
+    height: 40px;
+    padding-right: 50px;
+    cursor: pointer;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+.ton{
+    width: 345px;
+    height: 48px;
+    top: 524px;
+    left: 1px;
+    border-radius: 8px;
+    background-color: green;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.bro{
+    background: url(image/SAVE_20240208_103648.jpg);
+    background-position: center;
+    background-size: cover no-repeat;
+    height: 1000px;
+}
+.ji{
+    top: 596px;
+    left: 1px;
+    padding: 12px, 73px, 12px, 73px;
+    border-radius: 8px;
+    border: 1px;
+}
+.ewu{
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: auto 0;
+    background: rgba(225, 225, 225, 0.38);
+}
+.solo{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+p{
+    padding-left: 50px;   
+}
+a{
+    text-decoration: none;
+    color:green;
+}
+.ft{
+    background-color: black;
+    height: 10px;
+    width: 20px;
+}
